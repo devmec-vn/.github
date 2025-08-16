@@ -1,4 +1,4 @@
-# ☁️ Devmecloud
+# ☁️ Devmec
 
 Welcome to the place where code flows like clouds and projects launch from local to the cloud! 🚀
 
